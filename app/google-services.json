@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155963874443",
+    "firebase_url": "https://bdlaw-4cfca.firebaseio.com",
+    "project_id": "bdlaw-4cfca",
+    "storage_bucket": "bdlaw-4cfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155963874443:android:e3a3c45c245ada8616488e",
+        "android_client_info": {
+          "package_name": "com.example.bdlaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155963874443-1u1isfuctijjtgi0pkol785s64r5sssv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTtTUgecmkbS_Ei03effhGEqWROMNXr4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155963874443-1u1isfuctijjtgi0pkol785s64r5sssv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
